@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ekrem</h1>
 <h3 align="center">A full-stack developer from Turkey</h3>
 
-                                     ![AnimationLast](https://github.com/ekrem18/ekrem18/assets/130497212/19f094b3-9d1d-40b0-931d-a250ee129064)
+  ![AnimationLast](https://github.com/ekrem18/ekrem18/assets/130497212/19f094b3-9d1d-40b0-931d-a250ee129064)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrem18&label=Profile%20views&color=0e75b6&style=flat" alt="ekrem18" /> </p>
