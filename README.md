@@ -34,12 +34,12 @@
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | ![click](https://github.com/kamilarici/js-event/assets/129012602/bb60489e-b8b8-4119-8b8b-d716c7a66c3b)
 [Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,CSS,BOOTSTRAP | ![bellona2](https://github.com/kamilarici/proje-bellona/assets/129012602/cabc968e-130f-4c5c-a1ab-1addedbfb8d6)
 [Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS,BOOTSTRAP,JAVASCRİPT | ![hesap makinası](https://github.com/kamilarici/tw7-1/assets/129012602/d4acdbdf-9143-4b9e-989e-6202025d9d16)
-[Live Link](https://kamilarici.github.io/google/)<h3>[Repo](https://kamilarici.github.io/google/)</h3> | HTML, CSS |![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
-[Live Link](https://kamilarici.github.io/teamwork-uygulama1/)<h3>[Repo]( https://kamilarici.github.io/teamwork-uygulama1/)</h3> | HTML, CSS | ![Animation pa](https://user-images.githubusercontent.com/118935193/216319104-ea60391d-fba6-46bc-a99c-f6237f9887b3.gif)
-[Live Link](https://kamilarici.github.io/netflix-form/)<h3>[Repo](https://kamilarici.github.io/netflix-form/)</h3> | HTML, CSS |  ![Animation n](https://user-images.githubusercontent.com/118935193/214693643-913d0f24-aa23-4df5-9ddf-3e8faf4353e3.gif)
-[Live Link](https://kamilarici.github.io/tw-2/) <h3>[Repo](https://kamilarici.github.io/tw-2/)</h3> | HTML, CSS |![parallax_website](https://github.com/DurmusFurkanOzkan/Parallax_Website/blob/master/parallax_project_gif.gif)
-[Live Link](https://kamilarici.github.io/cw-assignment1/)| HTML,CSS | ![portfolio](https://github.com/kamilarici/cw-assignment1/assets/129012602/ed2f26a2-5e14-436f-9bf5-dfbc7f194332)
-[Live Link](https://kamilarici.github.io/pos-fix1/)| HTML,CSS | [pos-fix](https://kamilarici.github.io/pos-fix1/)
+[Live Link]|(https://ekrem18.github.io/Rock-Paper-Scissor-Game/) HTML, CSS |![rockPaper](https://github.com/ekrem18/ekrem18/assets/130497212/fe5e53b7-94f9-4b3b-b678-99a4452f9768)
+[Live Link](https://ekrem18.github.io/fixed-sticky-things/)| HTML, CSS | ![fixed](https://github.com/ekrem18/ekrem18/assets/130497212/a67c5c12-2139-4018-8701-7caaad648a21)
+[Live Link](https://ekrem18.github.io/googleProject/) | HTML, CSS | ![google](https://github.com/ekrem18/ekrem18/assets/130497212/4800c485-372c-4278-b06b-bca804a90367)
+[Live Link](https://ekrem18.github.io/photoParallax/)| HTML, CSS | ![parallax](https://github.com/ekrem18/ekrem18/assets/130497212/5a1b8c16-869b-4ba0-9e21-aabfe8717f24)
+[Live Link](https://ekrem18.github.io/Coffee-Case/)| HTML,CSS | ![coffee](https://github.com/ekrem18/ekrem18/assets/130497212/3ad8e4e9-cf0b-42d7-8a94-1e8a136c3318)
+[Live Link](https://ekrem18.github.io/NetflixRegister/)| HTML,CSS | ![netflix](https://github.com/ekrem18/ekrem18/assets/130497212/b8772def-a228-42a0-a32d-b15ea101bffc)
 [Live Link](https://ekrem18.github.io/1st-May-Assignment/)| HTML,CSS |![1st may](https://github.com/ekrem18/ekrem18/assets/130497212/30a16222-04fd-4901-9fb3-0c853dda8330)
 
 
