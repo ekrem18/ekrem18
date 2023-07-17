@@ -25,13 +25,13 @@
 
 <h3 align="left">My Projects:</h3>
 
-[Live Link](concert-ticket-app-react.vercel.app)| REACT,HTML,CSS,JAVASCRİPT |![concert](https://github.com/ekrem18/ekrem18/assets/130497212/c1fe0bda-e63b-41e6-809e-e3464bcf6975)
+[Live Link](https://concert-ticket-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![concert](https://github.com/ekrem18/ekrem18/assets/130497212/c1fe0bda-e63b-41e6-809e-e3464bcf6975)
 
 
-[Live Link](flowers-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![flowers](https://github.com/ekrem18/ekrem18/assets/130497212/a2119068-144b-4b43-9633-3868d7d0dfd9)
+[Live Link](https://flowers-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![flowers](https://github.com/ekrem18/ekrem18/assets/130497212/a2119068-144b-4b43-9633-3868d7d0dfd9)
 
 
-[Live Link](apple-iphone-react-project.vercel.app)| REACT,HTML,CSS,JAVASCRİPT |![iphone react](https://github.com/ekrem18/ekrem18/assets/130497212/4dffc55a-fb5c-4e00-9cce-ee2afdcdcffe)
+[Live Link](https://apple-iphone-react-project.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![iphone react](https://github.com/ekrem18/ekrem18/assets/130497212/4dffc55a-fb5c-4e00-9cce-ee2afdcdcffe)
 
 
 [Live Link](https://ekrem18.github.io/Calculator-Project---Alive/)| HTML,CSS,JAVASCRİPT | ![ios](https://github.com/ekrem18/ekrem18/assets/130497212/afc375bf-b2ed-4196-819b-fdb6504f866c)
