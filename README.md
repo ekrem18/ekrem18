@@ -46,6 +46,9 @@
 [Live Link](https://ekrem18.github.io/ToDo-List-Project/)| HTML,CSS,JAVASCRİPT |![todo](https://github.com/ekrem18/ekrem18/assets/130497212/0c882844-9490-46b4-b02a-b4cef305afd1)
 
 
+[Live Link]( https://ekrem18.github.io/Crypto-Coins-Api/)| HTML,CSS,JAVASCRİPT |![Coin](https://github.com/ekrem18/ekrem18/assets/130497212/6ab8c9d5-3b05-4bcf-b308-da64e576a8fa)
+
+
 [Live Link](https://ekrem18.github.io/Bootstrap-F1-Edition/)| HTML,CSS,BOOTSTRAP,JAVASCRİPT |![F1](https://github.com/ekrem18/ekrem18/assets/130497212/06e5e653-4a90-41c9-9aa6-57cf23acf256)
 
 
