@@ -60,6 +60,9 @@
 [Live Link](https://apple-iphone-react-project.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![iphone react](https://github.com/ekrem18/ekrem18/assets/130497212/4dffc55a-fb5c-4e00-9cce-ee2afdcdcffe)
 
 
+[Live Link](https://react-todo-training.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![todo react](https://github.com/ekrem18/ekrem18/assets/130497212/99b0964d-458d-41a2-9503-df7e30c19c36)
+
+
 [Live Link](https://ekrem18.github.io/Calculator-Project---Alive/)| HTML,CSS,JAVASCRİPT | ![ios](https://github.com/ekrem18/ekrem18/assets/130497212/afc375bf-b2ed-4196-819b-fdb6504f866c)
 
 
