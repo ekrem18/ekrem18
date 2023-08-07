@@ -48,6 +48,8 @@
 
 
 <h3 align="left">My Projects:</h3>
+[Live Link](https://movie-info-react-vite.vercel.app/)| REACT,CSS,VITE,TAILWIND |![movie info](https://github.com/ekrem18/ekrem18/assets/130497212/7ee32a04-359f-4887-97b6-6a394209ab36)
+
 
 [Live Link](https://concert-ticket-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![concert](https://github.com/ekrem18/ekrem18/assets/130497212/c1fe0bda-e63b-41e6-809e-e3464bcf6975)
 
