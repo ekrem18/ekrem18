@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Ekrem</h1>
-<h3 align="center">A full-stack developer from Turkey</h3>
+<h3 align="center">I work as a full stack developer. If you'd like to quickly take a look at my projects and review my work, you can check them out below. To view all the GIFs, I recommend giving the page a chance and waiting a bit.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ekrem yilmaztürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekrem yilmaztürk" height="30" width="40" /></a>
+<a href="https://instagram.com/ekrem_yilmazturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekrem_yilmazturk" height="30" width="40" /></a>
+</p>
 
    ![Animation5](https://github.com/ekrem18/ekrem18/assets/130497212/3da978b4-7379-4e05-ad97-8343647e8901)
 
@@ -12,11 +18,7 @@
 - How to reach me **avekremyilmazturk@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ekrem yilmaztürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekrem yilmaztürk" height="30" width="40" /></a>
-<a href="https://instagram.com/ekrem_yilmazturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekrem_yilmazturk" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
