@@ -11,7 +11,8 @@
 e-mail: **avekremyilmazturk@gmail.com**
 
 
-   ![Animation5](https://github.com/ekrem18/ekrem18/assets/130497212/3da978b4-7379-4e05-ad97-8343647e8901)
+ ![github](https://github.com/ekrem18/ekrem18/assets/130497212/aa9d1c56-8af8-4708-9b72-4acee60519f5)
+
 
 
 
