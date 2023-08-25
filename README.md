@@ -56,18 +56,20 @@
 
 
 
-<h3 align="left">My Projects:</h3>
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[Online Bookshop & Library](https://library-page-react.vercel.app/)| REACT, JS, Styled Comp, API|![library](https://github.com/ekrem18/ekrem18/assets/130497212/0e7a8cda-14fc-4823-9344-8c80f6562307)
 
-[Live Link](https://library-page-react.vercel.app/)| REACT,JS,Styled Comp,API |![library](https://github.com/ekrem18/ekrem18/assets/130497212/a67d2b4e-3cae-4185-bded-9041a339ad2e)
+[Movie Info App](https://movie-info-react-vite.vercel.app/)| REACT, CSS, VITE, TAILWIND |![movie info](https://github.com/ekrem18/ekrem18/assets/130497212/b51867f2-58bc-40b5-a78e-b536f231e111)
+
+[Concert Ticket Project](https://concert-ticket-app-react.vercel.app/)| REACT, HTML, CSS, JAVASCRİPT  |![concert](https://github.com/ekrem18/ekrem18/assets/130497212/3ba20e81-6ff5-4ca6-9493-121178ee1c1b)
+
+[Flowers Info](https://flowers-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT|![flowers](https://github.com/ekrem18/ekrem18/assets/130497212/c66a0580-d736-49d8-a0a9-dfb8f0d5483d)
 
 
-[Live Link](https://movie-info-react-vite.vercel.app/)| REACT,CSS,VITE,TAILWIND |![movie info](https://github.com/ekrem18/ekrem18/assets/130497212/7ee32a04-359f-4887-97b6-6a394209ab36)
 
 
-[Live Link](https://concert-ticket-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![concert](https://github.com/ekrem18/ekrem18/assets/130497212/c1fe0bda-e63b-41e6-809e-e3464bcf6975)
-
-
-[Live Link](https://flowers-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![flowers](https://github.com/ekrem18/ekrem18/assets/130497212/a2119068-144b-4b43-9633-3868d7d0dfd9)
 
 
 [Live Link](https://apple-iphone-react-project.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT |![iphone react](https://github.com/ekrem18/ekrem18/assets/130497212/4dffc55a-fb5c-4e00-9cce-ee2afdcdcffe)
@@ -118,10 +120,7 @@
 
 
 
-## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[Online Bookshop & Library](https://library-page-react.vercel.app/)| REACT, JS, Styled Comp, API|![library](https://github.com/ekrem18/ekrem18/assets/130497212/0e7a8cda-14fc-4823-9344-8c80f6562307)
+
 
 
 
