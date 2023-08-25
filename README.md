@@ -60,11 +60,8 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Online Bookshop & Library](https://library-page-react.vercel.app/)| REACT, JS, Styled Comp, API|![library](https://github.com/ekrem18/ekrem18/assets/130497212/0e7a8cda-14fc-4823-9344-8c80f6562307)
-
 [Movie Info App](https://movie-info-react-vite.vercel.app/)| REACT, CSS, VITE, TAILWIND |![movie info](https://github.com/ekrem18/ekrem18/assets/130497212/b51867f2-58bc-40b5-a78e-b536f231e111)
-
 [Concert Ticket Project](https://concert-ticket-app-react.vercel.app/)| REACT, HTML, CSS, JAVASCRİPT  |![concert](https://github.com/ekrem18/ekrem18/assets/130497212/3ba20e81-6ff5-4ca6-9493-121178ee1c1b)
-
 [Flowers Info](https://flowers-app-react.vercel.app/)| REACT,HTML,CSS,JAVASCRİPT|![flowers](https://github.com/ekrem18/ekrem18/assets/130497212/c66a0580-d736-49d8-a0a9-dfb8f0d5483d)
 
 
