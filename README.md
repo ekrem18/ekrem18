@@ -11,7 +11,8 @@
 e-mail: **avekremyilmazturk@gmail.com**
 
 
- ![github](https://github.com/ekrem18/ekrem18/assets/130497212/aa9d1c56-8af8-4708-9b72-4acee60519f5)
+![github2](https://github.com/ekrem18/ekrem18/assets/130497212/021af04b-1e6e-47f2-9a8d-c6168b9fa845)
+
 
 
 
