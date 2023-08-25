@@ -65,25 +65,12 @@
 [Flowers Info](https://flowers-app-react.vercel.app/)| REACT, HTML, CSS, JAVASCRİPT|![flowers](https://github.com/ekrem18/ekrem18/assets/130497212/c66a0580-d736-49d8-a0a9-dfb8f0d5483d)
 [iPhone Comparison](https://apple-iphone-react-project.vercel.app/)| REACT, HTML, CSS, JAVASCRİPT |![iphone react](https://github.com/ekrem18/ekrem18/assets/130497212/16ec7d00-4d66-4871-aa13-ae4429902633)
 [ToDo Upg. React](https://react-todo-training.vercel.app/)| REACT, HTML, CSS, JAVASCRİPT  |![todo react](https://github.com/ekrem18/ekrem18/assets/130497212/99b0964d-458d-41a2-9503-df7e30c19c36)
+[Calculator ](https://ekrem18.github.io/Calculator-Project---Alive/)| HTML, CSS, JAVASCRİPT  |![ios](https://github.com/ekrem18/ekrem18/assets/130497212/afc375bf-b2ed-4196-819b-fdb6504f866c)
+[Tesla Info Site](https://ekrem18.github.io/Car-Sales---SASS-Project/)| HTML, JAVASCRİPT, SASS |![car sale](https://github.com/ekrem18/ekrem18/assets/130497212/3e5e926f-2f77-4d40-aeff-33b9294e1a38)
+[Can I deduct the month's end?](https://ekrem18.github.io/Ay-Sonunu-Gorebiliyor-muyum-App-AliSen-Edt/)|  HTML, CSS, BOOTSTRAP |![aySonu](https://github.com/ekrem18/ekrem18/assets/130497212/b0994923-248e-4536-a005-de044dcc0659)
+[ToDo List V.01](https://ekrem18.github.io/ToDo-List-Project/)| HTML, CSS, JAVASCRİPT|![todo](https://github.com/ekrem18/ekrem18/assets/130497212/0c882844-9490-46b4-b02a-b4cef305afd1)
+[Coin App](https://ekrem18.github.io/Crypto-Coins-Api/)| HTML, CSS, JAVASCRİPT |![Coin](https://github.com/ekrem18/ekrem18/assets/130497212/6ab8c9d5-3b05-4bcf-b308-da64e576a8fa)
 
-
-
-[Live Link]()||
-
-
-[Live Link](https://ekrem18.github.io/Calculator-Project---Alive/)| HTML,CSS,JAVASCRİPT | ![ios](https://github.com/ekrem18/ekrem18/assets/130497212/afc375bf-b2ed-4196-819b-fdb6504f866c)
-
-
-[Live Link](https://ekrem18.github.io/Car-Sales---SASS-Project/)| HTML,JAVASCRİPT,SASS | ![car sale](https://github.com/ekrem18/ekrem18/assets/130497212/3e5e926f-2f77-4d40-aeff-33b9294e1a38)
-
-
-[Live Link](https://ekrem18.github.io/Ay-Sonunu-Gorebiliyor-muyum-App-AliSen-Edt/)| HTML,CSS,BOOTSTRAP | ![aySonu](https://github.com/ekrem18/ekrem18/assets/130497212/b0994923-248e-4536-a005-de044dcc0659)
-
-
-[Live Link](https://ekrem18.github.io/ToDo-List-Project/)| HTML,CSS,JAVASCRİPT |![todo](https://github.com/ekrem18/ekrem18/assets/130497212/0c882844-9490-46b4-b02a-b4cef305afd1)
-
-
-[Live Link]( https://ekrem18.github.io/Crypto-Coins-Api/)| HTML,CSS,JAVASCRİPT |![Coin](https://github.com/ekrem18/ekrem18/assets/130497212/6ab8c9d5-3b05-4bcf-b308-da64e576a8fa)
 
 
 [Live Link](https://ekrem18.github.io/Bootstrap-F1-Edition/)| HTML,CSS,BOOTSTRAP,JAVASCRİPT |![F1](https://github.com/ekrem18/ekrem18/assets/130497212/06e5e653-4a90-41c9-9aa6-57cf23acf256)
