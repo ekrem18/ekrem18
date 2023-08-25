@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ekrem</h1>
 <h3 align="center">I work as a full stack developer. If you'd like to quickly take a look at my projects and review my work, you can check them out below. To view all the GIFs, I recommend giving the page a chance and waiting a bit:).</h3>
 
- <picture> <img align="right" src="![github2](https://github.com/ekrem18/ekrem18/assets/130497212/c7da3906-f6de-43f1-b60a-f2d26bd226a3)
-" ></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +12,7 @@ e-mail: **avekremyilmazturk@gmail.com**
 
 
 
+![github2](https://github.com/ekrem18/ekrem18/assets/130497212/305ae04c-aa40-4dd1-bf29-f1b2d49de8e9)
 
 
 
