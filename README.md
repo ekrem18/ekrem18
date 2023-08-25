@@ -70,32 +70,14 @@
 [Can I deduct the month's end?](https://ekrem18.github.io/Ay-Sonunu-Gorebiliyor-muyum-App-AliSen-Edt/)|  HTML, CSS, BOOTSTRAP |![aySonu](https://github.com/ekrem18/ekrem18/assets/130497212/b0994923-248e-4536-a005-de044dcc0659)
 [ToDo List V.01](https://ekrem18.github.io/ToDo-List-Project/)| HTML, CSS, JAVASCRİPT|![todo](https://github.com/ekrem18/ekrem18/assets/130497212/0c882844-9490-46b4-b02a-b4cef305afd1)
 [Coin App](https://ekrem18.github.io/Crypto-Coins-Api/)| HTML, CSS, JAVASCRİPT |![Coin](https://github.com/ekrem18/ekrem18/assets/130497212/6ab8c9d5-3b05-4bcf-b308-da64e576a8fa)
-
-
-
-[Live Link](https://ekrem18.github.io/Bootstrap-F1-Edition/)| HTML,CSS,BOOTSTRAP,JAVASCRİPT |![F1](https://github.com/ekrem18/ekrem18/assets/130497212/06e5e653-4a90-41c9-9aa6-57cf23acf256)
-
-
-[Live Link](https://ekrem18.github.io/Rock-Paper-Scissor-Game/)| HTML, CSS |![rockPaper](https://github.com/ekrem18/ekrem18/assets/130497212/fe5e53b7-94f9-4b3b-b678-99a4452f9768)
-
-
-[Live Link](https://ekrem18.github.io/fixed-sticky-things/)| HTML, CSS | ![fixed](https://github.com/ekrem18/ekrem18/assets/130497212/a67c5c12-2139-4018-8701-7caaad648a21)
-
-
-[Live Link](https://ekrem18.github.io/googleProject/) | HTML, CSS | ![google](https://github.com/ekrem18/ekrem18/assets/130497212/4800c485-372c-4278-b06b-bca804a90367)
-
-
-[Live Link](https://ekrem18.github.io/photoParallax/)| HTML, CSS | ![parallax](https://github.com/ekrem18/ekrem18/assets/130497212/5a1b8c16-869b-4ba0-9e21-aabfe8717f24)
-
-
-[Live Link](https://ekrem18.github.io/Coffee-Case/)| HTML,CSS | ![coffee](https://github.com/ekrem18/ekrem18/assets/130497212/3ad8e4e9-cf0b-42d7-8a94-1e8a136c3318)
-
-
-[Live Link](https://ekrem18.github.io/NetflixRegister/)| HTML,CSS | ![netflix](https://github.com/ekrem18/ekrem18/assets/130497212/b8772def-a228-42a0-a32d-b15ea101bffc)
-
-
-[Live Link](https://ekrem18.github.io/1st-May-Assignment/)| HTML,CSS |![1st may](https://github.com/ekrem18/ekrem18/assets/130497212/30a16222-04fd-4901-9fb3-0c853dda8330)
-
+[F1 Info Site](https://ekrem18.github.io/Bootstrap-F1-Edition/)| HTML, CSS, BOOTSTRAP, JAVASCRİPT |![F1](https://github.com/ekrem18/ekrem18/assets/130497212/06e5e653-4a90-41c9-9aa6-57cf23acf256)
+[Rock-Paper-Scissor Game](https://ekrem18.github.io/Rock-Paper-Scissor-Game/)| HTML, CSS |![rockPaper](https://github.com/ekrem18/ekrem18/assets/130497212/fe5e53b7-94f9-4b3b-b678-99a4452f9768)
+[Fixed & Sticky Things](https://ekrem18.github.io/fixed-sticky-things/)| HTML, CSS | ![fixed](https://github.com/ekrem18/ekrem18/assets/130497212/a67c5c12-2139-4018-8701-7caaad648a21)
+[Google Theme](https://ekrem18.github.io/googleProject/)| HTML, CSS | ![google](https://github.com/ekrem18/ekrem18/assets/130497212/4800c485-372c-4278-b06b-bca804a90367)
+[My Photos and Parallax Theme](https://ekrem18.github.io/photoParallax/)| HTML, CSS | ![parallax](https://github.com/ekrem18/ekrem18/assets/130497212/5a1b8c16-869b-4ba0-9e21-aabfe8717f24)
+[Coffee Case](https://ekrem18.github.io/Coffee-Case/)| HTML, CSS | ![coffee](https://github.com/ekrem18/ekrem18/assets/130497212/3ad8e4e9-cf0b-42d7-8a94-1e8a136c3318)
+[Netflix Register](https://ekrem18.github.io/NetflixRegister/)| HTML, CSS | ![netflix](https://github.com/ekrem18/ekrem18/assets/130497212/b8772def-a228-42a0-a32d-b15ea101bffc)
+[First of All](https://ekrem18.github.io/1st-May-Assignment/))| HTML, CSS |![1st may](https://github.com/ekrem18/ekrem18/assets/130497212/30a16222-04fd-4901-9fb3-0c853dda8330)
 
 
 
