@@ -77,7 +77,7 @@
 [My Photos and Parallax Theme](https://ekrem18.github.io/photoParallax/)| HTML, CSS | ![parallax](https://github.com/ekrem18/ekrem18/assets/130497212/5a1b8c16-869b-4ba0-9e21-aabfe8717f24)
 [Coffee Case](https://ekrem18.github.io/Coffee-Case/)| HTML, CSS | ![coffee](https://github.com/ekrem18/ekrem18/assets/130497212/3ad8e4e9-cf0b-42d7-8a94-1e8a136c3318)
 [Netflix Register](https://ekrem18.github.io/NetflixRegister/)| HTML, CSS | ![netflix](https://github.com/ekrem18/ekrem18/assets/130497212/b8772def-a228-42a0-a32d-b15ea101bffc)
-[First of All](https://ekrem18.github.io/1st-May-Assignment/))| HTML, CSS |![1st may](https://github.com/ekrem18/ekrem18/assets/130497212/30a16222-04fd-4901-9fb3-0c853dda8330)
+[First of All](https://ekrem18.github.io/1st-May-Assignment/)| HTML, CSS |![1st may](https://github.com/ekrem18/ekrem18/assets/130497212/30a16222-04fd-4901-9fb3-0c853dda8330)
 
 
 
