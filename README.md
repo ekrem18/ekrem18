@@ -8,6 +8,7 @@
 <a href="https://instagram.com/ekrem_yilmazturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekrem_yilmazturk" height="30" width="40" /></a>
 </p>
 
+- How to reach me **avekremyilmazturk@gmail.com**
 
 
    ![Animation5](https://github.com/ekrem18/ekrem18/assets/130497212/3da978b4-7379-4e05-ad97-8343647e8901)
@@ -15,12 +16,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrem18&label=Profile%20views&color=0e75b6&style=flat" alt="ekrem18" /> </p>
-
-- I’m currently learning **React**
-
-- How to reach me **avekremyilmazturk@gmail.com**
-
-
 
 
 
