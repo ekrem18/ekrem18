@@ -11,7 +11,10 @@
 e-mail: **avekremyilmazturk@gmail.com**
 
 
-![github2](https://github.com/ekrem18/ekrem18/assets/130497212/305ae04c-aa40-4dd1-bf29-f1b2d49de8e9) 
+<p align="center">
+  <img src="https://github.com/ekrem18/ekrem18/assets/130497212/305ae04c-aa40-4dd1-bf29-f1b2d49de8e9" alt="GIF" />
+</p>
+
 
 
 
