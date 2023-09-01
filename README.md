@@ -62,8 +62,8 @@ e-mail: **avekremyilmazturk@gmail.com**
   Project Name & Live       |Libraries and Technologies I use     |How does my project look    |Repo link  
 :-------------------------|-------------------------|-------------------------|-------------------------
 [e-com King](https://stock-app-react-dusky.vercel.app/)| REACT, JS, TAILWIND, MUI, FORMIK, REDUX, API|![stock app](https://github.com/ekrem18/ekrem18/assets/130497212/4de056dc-4f4f-40ff-82c7-27caa584725f)|[Repo Link](https://github.com/ekrem18/Stock_app-react)
-[Movies Ratings & Reviews](https://movies-rating-reviews-react.vercel.app/)| REACT, JS, TAILWIND, API, FIREBASE|![movie rate](https://github.com/ekrem18/ekrem18/assets/130497212/6fe9fa66-b17f-43df-97c9-c5e21e480c4d)
-[Online Bookshop & Library](https://library-page-react.vercel.app/)| REACT, JS, STYLED COMP, API|![library](https://github.com/ekrem18/ekrem18/assets/130497212/0e7a8cda-14fc-4823-9344-8c80f6562307)
+[Movies Ratings & Reviews](https://movies-rating-reviews-react.vercel.app/)| REACT, JS, TAILWIND, API, FIREBASE|![movie rate](https://github.com/ekrem18/ekrem18/assets/130497212/6fe9fa66-b17f-43df-97c9-c5e21e480c4d)|[Repo Link](https://github.com/ekrem18/movies_rates_reviews_app_react)
+[Online Bookshop & Library](https://library-page-react.vercel.app/)| REACT, JS, STYLED COMP, API|![library](https://github.com/ekrem18/ekrem18/assets/130497212/0e7a8cda-14fc-4823-9344-8c80f6562307)|[Repo Link](https://github.com/ekrem18/Bookstore_react)
 [Concert Ticket Project](https://concert-ticket-app-react.vercel.app/)| REACT, HTML, CSS, JAVASCRİPT  |![concert](https://github.com/ekrem18/ekrem18/assets/130497212/3ba20e81-6ff5-4ca6-9493-121178ee1c1b)
 [Movie Info App](https://movie-info-react-vite.vercel.app/)| REACT, CSS, VITE, TAILWIND |![movie info](https://github.com/ekrem18/ekrem18/assets/130497212/b51867f2-58bc-40b5-a78e-b536f231e111)
 [ToDo App TypeScript](https://todo-typescript-version-9h6d.vercel.app/)| REACT, TYPESCRIPT  VITE |![toDo](https://github.com/ekrem18/ekrem18/assets/130497212/8f25ebe7-33e1-44d3-b112-9c56a0c640e3)
