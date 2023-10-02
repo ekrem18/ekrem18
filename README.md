@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Ekrem</h1>
+
 <h3 align="center">I work as a full stack developer. If you'd like to quickly take a look at my projects and review my work, you can check them out below. To view all the GIFs, I recommend giving the page a chance and waiting a bit:).</h3>
 
 
