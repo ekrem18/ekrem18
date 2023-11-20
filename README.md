@@ -40,19 +40,29 @@ e-mail: **avekremyilmazturk@gmail.com**
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  
 <h3 align="center">Backend:</h3>
-<p align="center">  
+<p align="center">
+<img src="https://img.shields.io/badge/Nodejs-3dcc00.svg?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=00a80b" alt="badge" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-009de0.svg?style=for-the-badge&logo=Docker&logoColor=white&labelColor=006ce0" alt="badge" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JWT-420061.svg?style=for-the-badge&logo=JSON Web Tokens&logoColor=white&labelColor=710080" alt="badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS -edf019.svg?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=e0bb00" alt="badge" />
+<img src="https://img.shields.io/badge/mongoose-116600.svg?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=00801a" alt="badge" />
+<img src="https://img.shields.io/badge/postman-ffa78a.svg?style=for-the-badge&logo=Postman&logoColor=white&labelColor=ffbf94" alt="badge" />
 
+<h3 align="center">Design & Editing & Others</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<h3 align="center">Design & Editing</h3>
-<p align="center">
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
