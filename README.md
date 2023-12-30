@@ -49,6 +49,7 @@ e-mail: **avekremyilmazturk@gmail.com**
 <img src="https://img.shields.io/badge/Docker-009de0.svg?style=for-the-badge&logo=Docker&logoColor=white&labelColor=006ce0" alt="badge" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
+<img src="https://img.shields.io/badge/PgAdmin4-539bf9.svg?style=for-the-badge&logo=Server Fault&logoColor=ffffff&labelColor=ffffff" alt="badge" />
 <img src="https://img.shields.io/badge/JWT-420061.svg?style=for-the-badge&logo=JSON Web Tokens&logoColor=white&labelColor=710080" alt="badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
