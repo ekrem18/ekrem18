@@ -21,7 +21,7 @@ e-mail: **avekremyilmazturk@gmail.com**
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrem18&label=Profile%20views&color=0e75b6&style=flat" alt="ekrem18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrem18&label=Profile%20views&color=0e75b6&style=flat" alt="ekrem18Counter" /> </p>
 
 
 
